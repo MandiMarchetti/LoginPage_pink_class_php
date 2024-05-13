@@ -16,18 +16,13 @@ class LoginPage
 
     private function register()
     {
-        // Aqui você pode adicionar a lógica para processar o registro
-        // Lembre-se de ajustar a URL e os parâmetros conforme necessário
-        // Exemplo: $url = "http://localhost:3000/register";
-        // Exemplo: $data = ["name" => $this->name, "phone" => $this->phone, "email" => $this->email, "password" => $this->password];
-        // Exemplo: $response = $this->makePostRequest($url, $data);
-        // Exemplo: var_dump($response);
+        //I'll try to find out if to store the register date will be here :D
     }
 
 
     public function render()
     {
-        // Renderiza a página HTML
+
 ?>
         <!DOCTYPE html>
         <html lang="en">
